@@ -13,7 +13,7 @@ I'm a graduate student at the University of Victoria, currently pursuing my thes
 
 **More Info about me**
 
-- 🔭 I’m currently working on securing Internet of Things using Aritificial Intelligence.
+- 🔭 I’m currently working on securing Internet of Things using Artificial Intelligence.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/achyuth-nandikotkur/">Linkedin</a>
 - ⚡ Fun fact: I love astronomy, teaching and reading.
 - 📫 Contact for queries : achyuth.nandikotkur@gmail.com
