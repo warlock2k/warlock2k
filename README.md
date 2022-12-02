@@ -8,7 +8,7 @@
 </p>
 
 
-I'm a graduate student at the University of Victoria, currently pursuing my thesis in the area of Security in IoT. I have previously worked as a software engineer at Citrix Systems Inc. for more than 4 years involved primarily in native app and full stack development and was also able to file more than 15 patents out of which 7 are granted.
+I'm a graduate student at the University of Victoria, currently pursuing my thesis in the area of Security in IoT. I have previously worked as a software engineer at Citrix Systems Inc. for more than 4 years involved primarily in native app and full stack development and was also able to file more than 15 patents out of which 11 are granted.
 
 
 **More Info about me**
