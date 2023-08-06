@@ -4,7 +4,7 @@
 
 <p align=center> 
   <a href="https://www.linkedin.com/in/achyuth-nandikotkur/" target="_blank"> <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a>
-  <a href="https://patents.google.com/?inventor=Nandikotkur+Achyuth" target="_blank"> <img src=https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white> </a>
+  <a href="https://scholar.google.com/citations?user=p-VSIvMAAAAJ" target="_blank"> <img src=https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white> </a>
 </p>
 
 
