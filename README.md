@@ -8,13 +8,13 @@
 </p>
 
 
-I'm a graduate student at the University of Victoria, currently pursuing my thesis in the area of Security in IoT. I have previously worked as a software engineer at Citrix Systems Inc. for more than 4 years involved primarily in native app and full stack development and was also able to file more than 18 patents out of which 15 are granted.
+Engineering graduated from Uvic, interested in Operating Systems and Security.
 
 
 **More Info about me**
 
-- 🔭 I’m currently working on securing Age Tech related IoT devices using Artificial Intelligence.
+- 🔭 I’m currently working on fuzzing and penetration testing.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/achyuth-nandikotkur/">Linkedin</a>
 - ⚡ Fun fact: I love astronomy, teaching and reading.
-- 📫 Contact for queries : achyuth.nandikotkur@gmail.com
+- 📫 Contact for queries : achyuth.amar@gmail.com
  
