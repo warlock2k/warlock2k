@@ -8,7 +8,7 @@
 </p>
 
 
-Engineering graduated from Uvic, interested in Operating Systems and Security.
+Engineering graduate from Uvic, interested in Operating Systems and Security.
 
 
 **More Info about me**
